@@ -1,0 +1,23 @@
+# depslib dependency file v1.0
+1715778235 source:d:\workspace\c,c++\studentmanagement\src\student.cpp
+	"Student.h"
+
+1715781332 d:\workspace\c,c++\studentmanagement\include\student.h
+	<string>
+
+1715789965 source:d:\workspace\c,c++\studentmanagement\main.cpp
+	<iostream>
+	<Student.h>
+	<vector>
+
+1715790048 source:d:\workspace\c,c++\studentmanagementconsole\main.cpp
+	<iostream>
+	<Student.h>
+	<vector>
+
+1715781332 d:\workspace\c,c++\studentmanagementconsole\include\student.h
+	<string>
+
+1715778235 source:d:\workspace\c,c++\studentmanagementconsole\src\student.cpp
+	"Student.h"
+
