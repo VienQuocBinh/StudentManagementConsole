@@ -1,4 +1,7 @@
 # StudentManagementConsole
+## IDE
+  CodeBlocks
+
 ## Main feature
 1. Add New Student
 2. Display All Student
